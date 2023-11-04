@@ -7,6 +7,7 @@ import Box from "@mui/joy/Box";
 // import CardPluto2 from "./components/CardPluto";
 import CardBlog from "./components/CardBlog";
 import CardListProperty from "./components/CardListProperty";
+import CardPropertyLatest from "./components/CardPropertyLatest";
 
 function App() {
 
@@ -19,8 +20,9 @@ function App() {
       {/* <CardPlanTrip />
       <CardPlanTrip2 /> */}
       {/* <CardBlog /> */}
-      <CardListProperty />
-      <CardListProperty />
+      {/* <CardListProperty />
+      <CardListProperty /> */}
+      <CardPropertyLatest />
     </Box>
   )
 }
