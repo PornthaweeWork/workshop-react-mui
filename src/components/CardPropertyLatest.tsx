@@ -8,7 +8,7 @@ export default function CardPropertyLatest() {
   return (
     <div style={{ display: "flex", flexDirection: "column", alignItems: "center"}}>
       <AspectRatio ratio="21/9" sx={{ width: "400px", borderRadius: 'lg', marginBottom: "-30px"}}>
-        <img style={{ width: "400px", borderRadius: 'lg', marginBottom: "-30px"}} src="https://images.unsplash.com/photo-1470075801209-17f9ec0cada6?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YnVpbGRpbmd8ZW58MHx8MHx8fDA%3D" alt="" />
+        <img src="https://images.unsplash.com/photo-1470075801209-17f9ec0cada6?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YnVpbGRpbmd8ZW58MHx8MHx8fDA%3D" alt="" />
       </AspectRatio>
       <Card sx={{ width: "350px"}}>
         <CardContent orientation="vertical">
