@@ -27,4 +27,4 @@ If you are developing a production application, we recommend updating the config
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
 - (https://github.com/siriwatknp/joy-treasury/issues?fbclid=IwAR1Opv9wdTvtRPKCeHLwYLzhOS5671Ie8EBAhEFYk_bVCzgTeFXNLlTWUlY)
-  [Component Practices](assets/image-index.png)
+  ![Component Practices](assets/image-index.png)
