@@ -13,6 +13,7 @@ export default function CardBooking() {
       orientation="horizontal"
       sx={{
         width: 400,
+        height: "fit-content",
         overflow: "auto",
         resize: "horizontal",
         borderRadius: "xl", // See tokens in `radius` https://mui.com/joy-ui/customization/default-theme-viewer/

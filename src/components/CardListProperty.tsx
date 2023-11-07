@@ -11,7 +11,7 @@ export default function CardListProperty() {
 
   }, [star])
   return (
-    <Card variant="plain" orientation="horizontal" className="w-[500px] shadow">
+    <Card variant="plain" orientation="horizontal" className="w-[500px] h-fit shadow">
       <AspectRatio minHeight={140} maxHeight={140} sx={{ width: '120px', marginLeft: '-30px', marginTop: '-30px' }}>
         <img
           src="https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?auto=format&fit=crop&q=80&w=2574&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"

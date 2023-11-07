@@ -3,7 +3,7 @@ import FavoriteIcon from '@mui/icons-material/Favorite';
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
 import { useState } from 'react';
 
-export default function CardPropertyLatest() {
+export default function CardPropertyLatest(props: any) {
   const [heart, setHeart] = useState(false)
   return (
     <Card variant='plain' style={{ alignItems: "center"}}>
