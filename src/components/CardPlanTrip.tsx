@@ -6,7 +6,6 @@ import {
   Typography,
   Button
 } from "@mui/joy";
-import React from "react";
 import { Star } from "../assets";
 
 export default function CardPlanTrip() {

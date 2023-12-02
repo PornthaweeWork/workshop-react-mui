@@ -1,15 +1,10 @@
-import * as React from "react";
 import AspectRatio from "@mui/joy/AspectRatio";
 import Card from "@mui/joy/Card";
 import CardOverflow from "@mui/joy/CardOverflow";
-import CardActions from "@mui/joy/CardActions";
 import CardContent from "@mui/joy/CardContent";
-import Button from "@mui/joy/Button";
 import Typography from "@mui/joy/Typography";
-import Badge from "@mui/joy/Badge";
 import Chip from "@mui/joy/Chip";
 import Avatar from "@mui/joy/Avatar";
-import { IMAGES, Star } from "../assets";
 
 export default function CardPlanTrip() {
   return (

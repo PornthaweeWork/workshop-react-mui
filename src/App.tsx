@@ -1,4 +1,3 @@
-import * as React from "react";
 import Box from "@mui/joy/Box";
 import CardPluto from "./CardPluto";
 import CardPlanTrip from "./CardPlanTrip";
